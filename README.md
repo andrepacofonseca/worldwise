@@ -4,6 +4,8 @@ Web app to map the cities visited by the user.
 
 (No user creation currently available, only default user)
 
+(this project was created with the guidance of Jonas Schmedtmann, via his Udemy course)
+
 
 # React + Vite
 
