@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Povoa de Varzim",
+      "country": "Portugal",
+      "emoji": "PT",
+      "date": "2023-12-15T15:56:24.789Z",
+      "notes": "RE",
+      "position": {
+        "lat": "41.379075553282476",
+        "lng": "-8.758888052357152"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Oeiras",
+      "country": "Portugal",
+      "emoji": "PT",
+      "date": "2023-12-15T18:58:28.542Z",
+      "notes": "Trabalho",
+      "position": {
+        "lat": "38.691185666321005",
+        "lng": "-9.31254688945052"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Munich",
+      "country": "Germany",
+      "emoji": "DE",
+      "date": "2023-12-15T18:59:53.757Z",
+      "notes": "Holidays",
+      "position": {
+        "lat": "48.13634573247175",
+        "lng": "11.575460050724487"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Lles de Cerdanya",
+      "country": "Andorra",
+      "emoji": "AD",
+      "date": "2023-12-19T10:34:47.514Z",
+      "notes": "a",
+      "position": {
+        "lat": "42.454891420094974",
+        "lng": "1.5778631337554485"
+      },
+      "id": 98443203
+    }
+  ]
+}
