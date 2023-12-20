@@ -1,3 +1,10 @@
+# Worldwise
+
+Web app to map the cities visited by the user.
+
+(No user creation currently available, only default user)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
